@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.server-vault/
+vault.json
+backups/
+*.tar.gz
+manifest.json
+COMPLETE
+health*.json
+.env
+.env.*
