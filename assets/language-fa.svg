@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="168" height="48" viewBox="0 0 168 48" role="img" aria-labelledby="title">
+<title id="title">فارسی — پرچم ایران</title>
+<rect x="1" y="1" width="166" height="46" rx="9" fill="#182129" stroke="#667d52" stroke-width="2"/>
+<svg x="13" y="11" width="42" height="26" viewBox="0 0 42 26">
+<path fill="#239f40" d="M0 0h42v9H0z"/><path fill="#fff" d="M0 9h42v8H0z"/><path fill="#da0000" d="M0 17h42v9H0z"/>
+<text x="21" y="16.5" text-anchor="middle" font-family="DejaVu Sans,Arial,sans-serif" font-size="11" fill="#da0000">☫</text>
+</svg>
+<text x="110" y="30" text-anchor="middle" direction="rtl" font-family="Tahoma,Arial,sans-serif" font-size="18" font-weight="700" fill="#edf3f6">فارسی</text>
+</svg>
